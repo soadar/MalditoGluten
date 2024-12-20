@@ -1,0 +1,1334 @@
+[
+  {
+    "title": "allrice-harina-arroz-1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/allrice-harina-arroz-1kg.jpg"
+  },
+  {
+    "title": "allrice-spaghettis-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/allrice-spaghettis-espinaca.jpg"
+  },
+  {
+    "title": "allrice-spaghettis-tomate-albahaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/allrice-spaghettis-tomate-albahaca.jpg"
+  },
+  {
+    "title": "amadda-pan-rallado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/amadda-pan-rallado.jpg"
+  },
+  {
+    "title": "amadda-pm-univ",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/amadda-pm-univ.jpg"
+  },
+  {
+    "title": "amadda-rebozador",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/amadda-rebozador.jpg"
+  },
+  {
+    "title": "amadda-snacks-saladas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/amadda-snacks-saladas.jpg"
+  },
+  {
+    "title": "amadda-tostadas-clasicas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/amadda-tostadas-clasicas.jpg"
+  },
+  {
+    "title": "angiola-budin-chips",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-budin-chips.jpg"
+  },
+  {
+    "title": "angiola-budin-vaini",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-budin-vaini.jpg"
+  },
+  {
+    "title": "angiola-galles-bañadas-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-galles-bañadas-limon.jpg"
+  },
+  {
+    "title": "angiola-galles-bañadas-naranja",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-galles-bañadas-naranja.jpg"
+  },
+  {
+    "title": "angiola-stevia-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-stevia-choco.jpg"
+  },
+  {
+    "title": "angiola-stevia-naranja",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-stevia-naranja.jpg"
+  },
+  {
+    "title": "angiola-stevia-vainilla",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/angiola-stevia-vainilla.jpg"
+  },
+  {
+    "title": "bluepatna-fetuccinis-huevo (2)",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/bluepatna-fetuccinis-huevo (2).jpg"
+  },
+  {
+    "title": "bluepatna-mostacholes (2)",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/bluepatna-mostacholes (2).jpg"
+  },
+  {
+    "title": "bluepatna-spaguettis (2)",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/bluepatna-spaguettis (2).jpg"
+  },
+  {
+    "title": "bluepatna-tirabuzon (2)",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/bluepatna-tirabuzon (2).jpg"
+  },
+  {
+    "title": "capadocia-fettucini-blend-semillas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/capadocia-fettucini-blend-semillas.jpg"
+  },
+  {
+    "title": "capadocia-fettucini-huevo",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/capadocia-fettucini-huevo.jpg"
+  },
+  {
+    "title": "capadocia-fettucini-kale-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/capadocia-fettucini-kale-espinaca.jpg"
+  },
+  {
+    "title": "capadocia-pappardele-huevo",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/capadocia-pappardele-huevo.jpg"
+  },
+  {
+    "title": "capadocia-pappardele-kale-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/capadocia-pappardele-kale-espinaca.jpg"
+  },
+  {
+    "title": "chocho-co-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/chocho-co-choco.jpg"
+  },
+  {
+    "title": "cocoon-almendras-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/cocoon-almendras-choco.jpg"
+  },
+  {
+    "title": "cocoon-almendras-sinazucar",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/cocoon-almendras-sinazucar.jpg"
+  },
+  {
+    "title": "cocoon-almendras-vainilla",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/cocoon-almendras-vainilla.jpg"
+  },
+  {
+    "title": "cocoon-coco-sinazucar",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/cocoon-coco-sinazucar.jpg"
+  },
+  {
+    "title": "colono-cinta-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/colono-cinta-espinaca.jpg"
+  },
+  {
+    "title": "colono-cinta-huevo",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/colono-cinta-huevo.jpg"
+  },
+  {
+    "title": "colono-cinta-morron",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/colono-cinta-morron.jpg"
+  },
+  {
+    "title": "cuarto-creciente-sopa-sobres",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/cuarto-creciente-sopa-sobres.jpg"
+  },
+  {
+    "title": "delicel-galle-chips",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-galle-chips.jpg"
+  },
+  {
+    "title": "delicel-galle-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-galle-choco.jpg"
+  },
+  {
+    "title": "delicel-galle-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-galle-coco.jpg"
+  },
+  {
+    "title": "delicel-galle-naranj",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-galle-naranj.jpg"
+  },
+  {
+    "title": "delicel-galle-pepas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-galle-pepas.jpg"
+  },
+  {
+    "title": "delicel-pm-bizco-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-bizco-choco.jpg"
+  },
+  {
+    "title": "delicel-pm-bizco-vaini",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-bizco-vaini.jpg"
+  },
+  {
+    "title": "delicel-pm-noquis",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-noquis.jpg"
+  },
+  {
+    "title": "delicel-pm-pan",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-pan.jpg"
+  },
+  {
+    "title": "delicel-pm-pizza",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-pizza.jpg"
+  },
+  {
+    "title": "delicel-pm-univ",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-pm-univ.jpg"
+  },
+  {
+    "title": "delicel-rebozador",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/delicel-rebozador.jpg"
+  },
+  {
+    "title": "deluxe-bañada-fruti",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/deluxe-bañada-fruti.jpg"
+  },
+  {
+    "title": "dicomere-aceite-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-aceite-coco.jpg"
+  },
+  {
+    "title": "dicomere-adobo-orega-20g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-adobo-orega-20g.jpg"
+  },
+  {
+    "title": "dicomere-adobo-pimendulce-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-adobo-pimendulce-50g.jpg"
+  },
+  {
+    "title": "dicomere-adobo-pizza-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-adobo-pizza-50g.jpg"
+  },
+  {
+    "title": "dicomere-bica-200g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-bica-200g.jpg"
+  },
+  {
+    "title": "dicomere-bica-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-bica-50g.jpg"
+  },
+  {
+    "title": "dicomere-coco-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-coco-50g.jpg"
+  },
+  {
+    "title": "dicomere-garb-text",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-garb-text.jpg"
+  },
+  {
+    "title": "dicomere-hari-algarr",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-algarr.jpg"
+  },
+  {
+    "title": "dicomere-hari-almen",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-almen.jpg"
+  },
+  {
+    "title": "dicomere-hari-arroz1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-arroz1kg.jpg"
+  },
+  {
+    "title": "dicomere-hari-arv",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-arv.jpg"
+  },
+  {
+    "title": "dicomere-hari-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-coco.jpg"
+  },
+  {
+    "title": "dicomere-hari-fecumaiz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-fecumaiz.jpg"
+  },
+  {
+    "title": "dicomere-hari-fecumandi",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-fecumandi.jpg"
+  },
+  {
+    "title": "dicomere-hari-fecupapa",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-fecupapa.jpg"
+  },
+  {
+    "title": "dicomere-hari-garb",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-garb.jpg"
+  },
+  {
+    "title": "dicomere-hari-lent",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-lent.jpg"
+  },
+  {
+    "title": "dicomere-hari-quinoa",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-quinoa.jpg"
+  },
+  {
+    "title": "dicomere-hari-serraceno",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-serraceno.jpg"
+  },
+  {
+    "title": "dicomere-hari-sorgobl",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-sorgobl.jpg"
+  },
+  {
+    "title": "dicomere-hari-trigoserra",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hari-trigoserra.jpg"
+  },
+  {
+    "title": "dicomere-hornear-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-hornear-50g.jpg"
+  },
+  {
+    "title": "dicomere-mix-frutos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-mix-frutos.jpg"
+  },
+  {
+    "title": "dicomere-pm-pan-ph",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-pm-pan-ph.jpg"
+  },
+  {
+    "title": "dicomere-pm-pizza-ph",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-pm-pizza-ph.jpg"
+  },
+  {
+    "title": "dicomere-pm-univ-ph",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-pm-univ-ph.jpg"
+  },
+  {
+    "title": "dicomere-rebo-arroz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-rebo-arroz.jpg"
+  },
+  {
+    "title": "dicomere-syrup",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dicomere-syrup.jpg"
+  },
+  {
+    "title": "dona-pacha-almidon-maiz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-almidon-maiz.jpg"
+  },
+  {
+    "title": "dona-pacha-pm-bizco-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-pm-bizco-choco.jpg"
+  },
+  {
+    "title": "dona-pacha-pm-bizco-vaini",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-pm-bizco-vaini.jpg"
+  },
+  {
+    "title": "dona-pacha-pm-pastas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-pm-pastas.jpg"
+  },
+  {
+    "title": "dona-pacha-pm-pizza",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-pm-pizza.jpg"
+  },
+  {
+    "title": "dona-pacha-pm-univ",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-pm-univ.jpg"
+  },
+  {
+    "title": "dona-pacha-rebozador",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/dona-pacha-rebozador.jpg"
+  },
+  {
+    "title": "doninas-5-semillas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-5-semillas.jpg"
+  },
+  {
+    "title": "doninas-choco-mani",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-choco-mani.jpg"
+  },
+  {
+    "title": "doninas-coco-ddl",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-coco-ddl.jpg"
+  },
+  {
+    "title": "doninas-frutos-bosque",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-frutos-bosque.jpg"
+  },
+  {
+    "title": "doninas-frutos-secos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-frutos-secos.jpg"
+  },
+  {
+    "title": "doninas-sinazucar-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-sinazucar-limon.jpg"
+  },
+  {
+    "title": "doninas-sinazucar-naranja",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/doninas-sinazucar-naranja.jpg"
+  },
+  {
+    "title": "elcosaco-cebolla-deshidratado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/elcosaco-cebolla-deshidratado.jpg"
+  },
+  {
+    "title": "elcosaco-espinaca-deshidratado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/elcosaco-espinaca-deshidratado.jpg"
+  },
+  {
+    "title": "elcosaco-morron-deshidratado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/elcosaco-morron-deshidratado.jpg"
+  },
+  {
+    "title": "elcosaco-zanahorias-deshidratado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/elcosaco-zanahorias-deshidratado.jpg"
+  },
+  {
+    "title": "entrenuts-mani-cacao",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/entrenuts-mani-cacao.jpg"
+  },
+  {
+    "title": "entrenuts-mani-crocante",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/entrenuts-mani-crocante.jpg"
+  },
+  {
+    "title": "entrenuts-mani-stevia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/entrenuts-mani-stevia.jpg"
+  },
+  {
+    "title": "legume-arvejas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-arvejas.jpg"
+  },
+  {
+    "title": "legume-garbanzos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-garbanzos.jpg"
+  },
+  {
+    "title": "legume-kale-spirulina",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-kale-spirulina.jpg"
+  },
+  {
+    "title": "legume-lentejas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-lentejas.jpg"
+  },
+  {
+    "title": "legume-porotos-negros",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-porotos-negros.jpg"
+  },
+  {
+    "title": "legume-porotos-rojos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-porotos-rojos.jpg"
+  },
+  {
+    "title": "legume-proteine",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/legume-proteine.jpg"
+  },
+  {
+    "title": "levex",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/levex.jpg"
+  },
+  {
+    "title": "lista.txt",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lista.txt.jpg"
+  },
+  {
+    "title": "lola",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lola.jpg"
+  },
+  {
+    "title": "lovvit-galle-almendra-garb",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lovvit-galle-almendra-garb.jpg"
+  },
+  {
+    "title": "lovvit-galle-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lovvit-galle-coco.jpg"
+  },
+  {
+    "title": "lovvit-galle-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lovvit-galle-limon.jpg"
+  },
+  {
+    "title": "lulemuu-alf-chocobl",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-alf-chocobl.jpg"
+  },
+  {
+    "title": "lulemuu-alf-ddl",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-alf-ddl.jpg"
+  },
+  {
+    "title": "lulemuu-alf-fruti",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-alf-fruti.jpg"
+  },
+  {
+    "title": "lulemuu-alf-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-alf-limon.jpg"
+  },
+  {
+    "title": "lulemuu-alf-marroc",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-alf-marroc.jpg"
+  },
+  {
+    "title": "lulemuu-bizco-salados",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-bizco-salados.jpg"
+  },
+  {
+    "title": "lulemuu-limu",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/lulemuu-limu.jpg"
+  },
+  {
+    "title": "mole-arroz-yamani-primavera",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-arroz-yamani-primavera.jpg"
+  },
+  {
+    "title": "mole-arrozal-curry",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-arrozal-curry.jpg"
+  },
+  {
+    "title": "mole-caldo-polvo",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-caldo-polvo.jpg"
+  },
+  {
+    "title": "mole-cous-morroqui",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-cous-morroqui.jpg"
+  },
+  {
+    "title": "mole-falafel-garbanzos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-falafel-garbanzos.jpg"
+  },
+  {
+    "title": "mole-guiso-lenteja",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-guiso-lenteja.jpg"
+  },
+  {
+    "title": "mole-hummus-garb",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-hummus-garb.jpg"
+  },
+  {
+    "title": "mole-mix-croquetas-arroz-caprese",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-mix-croquetas-arroz-caprese.jpg"
+  },
+  {
+    "title": "mole-rebozador-todoenuno",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-rebozador-todoenuno.jpg"
+  },
+  {
+    "title": "mole-risotto-hongos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-risotto-hongos.jpg"
+  },
+  {
+    "title": "mole-risotto-napolitano",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-risotto-napolitano.jpg"
+  },
+  {
+    "title": "mole-risotto-pesto",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-risotto-pesto.jpg"
+  },
+  {
+    "title": "mole-sopa-energetica",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-sopa-energetica.jpg"
+  },
+  {
+    "title": "mole-sopa-quinoa",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/mole-sopa-quinoa.jpg"
+  },
+  {
+    "title": "Nani-almohaditas-avellanas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-almohaditas-avellanas.jpg"
+  },
+  {
+    "title": "Nani-almohaditas-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-almohaditas-choco.jpg"
+  },
+  {
+    "title": "Nani-almohaditas-fruti",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-almohaditas-fruti.jpg"
+  },
+  {
+    "title": "nani-almohaditas-mani",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nani-almohaditas-mani.jpg"
+  },
+  {
+    "title": "nani-aritos-cereal-frutal",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nani-aritos-cereal-frutal.jpg"
+  },
+  {
+    "title": "nani-bolitas-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nani-bolitas-choco.jpg"
+  },
+  {
+    "title": "Nani-copos-maiz-150g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-copos-maiz-150g.jpg"
+  },
+  {
+    "title": "Nani-copos-maiz-400g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-copos-maiz-400g.jpg"
+  },
+  {
+    "title": "Nani-maiz-azucarados-150g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/Nani-maiz-azucarados-150g.jpg"
+  },
+  {
+    "title": "naquet-grisines-clasicos",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/naquet-grisines-clasicos.jpg"
+  },
+  {
+    "title": "naquet-hojaldre",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/naquet-hojaldre.jpg"
+  },
+  {
+    "title": "natural-pop-creppes",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-creppes.jpg"
+  },
+  {
+    "title": "natural-pop-faina",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-faina.jpg"
+  },
+  {
+    "title": "natural-pop-falafel-arv",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-falafel-arv.jpg"
+  },
+  {
+    "title": "natural-pop-falafel",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-falafel.jpg"
+  },
+  {
+    "title": "natural-pop-hamburguesas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-hamburguesas.jpg"
+  },
+  {
+    "title": "natural-pop-hummus-remolacha",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-hummus-remolacha.jpg"
+  },
+  {
+    "title": "natural-pop-hummus",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-hummus.jpg"
+  },
+  {
+    "title": "natural-pop-milanesas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-milanesas.jpg"
+  },
+  {
+    "title": "natural-pop-queso-rallado",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-pop-queso-rallado.jpg"
+  },
+  {
+    "title": "natural-queen-azucar-400g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natural-queen-azucar-400g.jpg"
+  },
+  {
+    "title": "natuzen-cook-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-cook-choco.jpg"
+  },
+  {
+    "title": "natuzen-cook-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-cook-limon.jpg"
+  },
+  {
+    "title": "natuzen-cook-miti",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-cook-miti.jpg"
+  },
+  {
+    "title": "natuzen-galle-baston-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-baston-coco.jpg"
+  },
+  {
+    "title": "natuzen-galle-baston-limon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-baston-limon.jpg"
+  },
+  {
+    "title": "natuzen-galle-bizco-grasa",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-bizco-grasa.jpg"
+  },
+  {
+    "title": "natuzen-galle-bizco-queso",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-bizco-queso.jpg"
+  },
+  {
+    "title": "natuzen-galle-chips",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-chips.jpg"
+  },
+  {
+    "title": "natuzen-galle-cuadra-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-cuadra-choco.jpg"
+  },
+  {
+    "title": "natuzen-galle-cuadra-coco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-cuadra-coco.jpg"
+  },
+  {
+    "title": "natuzen-galle-pepas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-pepas.jpg"
+  },
+  {
+    "title": "natuzen-galle-rueditas-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-rueditas-choco.jpg"
+  },
+  {
+    "title": "natuzen-galle-rueditas-vaini",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-rueditas-vaini.jpg"
+  },
+  {
+    "title": "natuzen-galle-tapitas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-galle-tapitas.jpg"
+  },
+  {
+    "title": "natuzen-pan-rallado-450g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-pan-rallado-450g.jpg"
+  },
+  {
+    "title": "natuzen-pm-pana-1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-pm-pana-1kg.jpg"
+  },
+  {
+    "title": "natuzen-pm-pana-450g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-pm-pana-450g.jpg"
+  },
+  {
+    "title": "natuzen-pm-pizza",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/natuzen-pm-pizza.jpg"
+  },
+  {
+    "title": "nutrinat-caramelo-cafe-verde-frutos-rojos-stevia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrinat-caramelo-cafe-verde-frutos-rojos-stevia.jpg"
+  },
+  {
+    "title": "nutrinat-caramelo-miel-eucaliptus",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrinat-caramelo-miel-eucaliptus.jpg"
+  },
+  {
+    "title": "nutrizio-pm-bizco-muffins",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-bizco-muffins.jpg"
+  },
+  {
+    "title": "nutrizio-pm-crakers-gris",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-crakers-gris.jpg"
+  },
+  {
+    "title": "nutrizio-pm-pan-pizza",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-pan-pizza.jpg"
+  },
+  {
+    "title": "nutrizio-pm-panificados-sorgo-1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-panificados-sorgo-1kg.jpg"
+  },
+  {
+    "title": "nutrizio-pm-trigo-sarraceno-1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-trigo-sarraceno-1kg.jpg"
+  },
+  {
+    "title": "nutrizio-pm-univ-1kg",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/nutrizio-pm-univ-1kg.jpg"
+  },
+  {
+    "title": "padaon-harina-de-arroz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/padaon-harina-de-arroz.jpg"
+  },
+  {
+    "title": "padaon-pm-pizza",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/padaon-pm-pizza.jpg"
+  },
+  {
+    "title": "pampa-vinagre-manz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/pampa-vinagre-manz.jpg"
+  },
+  {
+    "title": "procal-azucar-imp-200g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-azucar-imp-200g.jpg"
+  },
+  {
+    "title": "procal-bica-50g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-bica-50g.jpg"
+  },
+  {
+    "title": "procal-bica-80g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-bica-80g.jpg"
+  },
+  {
+    "title": "procal-esencia-vainilla",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-esencia-vainilla.jpg"
+  },
+  {
+    "title": "procal-gelatina-sinsabor-42g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-gelatina-sinsabor-42g.jpg"
+  },
+  {
+    "title": "procal-goma-xantica",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-goma-xantica.jpg"
+  },
+  {
+    "title": "procal-hornear",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/procal-hornear.jpg"
+  },
+  {
+    "title": "risky-dit-nachos-250g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/risky-dit-nachos-250g.jpg"
+  },
+  {
+    "title": "risky-dit-nachos-90g",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/risky-dit-nachos-90g.jpg"
+  },
+  {
+    "title": "san-diego-almidon-maiz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/san-diego-almidon-maiz.jpg"
+  },
+  {
+    "title": "san-diego-brownie-choco",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/san-diego-brownie-choco.jpg"
+  },
+  {
+    "title": "san-diego-fecula-mandioca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/san-diego-fecula-mandioca.jpg"
+  },
+  {
+    "title": "san-diego-pm-panificados-semillas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/san-diego-pm-panificados-semillas.jpg"
+  },
+  {
+    "title": "sanamundi-pm-hummus",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/sanamundi-pm-hummus.jpg"
+  },
+  {
+    "title": "soyarroz-trad",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/soyarroz-trad.jpg"
+  },
+  {
+    "title": "taramo-muni-maiz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/taramo-muni-maiz.jpg"
+  },
+  {
+    "title": "taramo-penne-rigate",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/taramo-penne-rigate.jpg"
+  },
+  {
+    "title": "taramo-tirabuzon-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/taramo-tirabuzon-espinaca.jpg"
+  },
+  {
+    "title": "taramo-tirabuzon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/taramo-tirabuzon.jpg"
+  },
+  {
+    "title": "teramo-rigatoni",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/teramo-rigatoni.jpg"
+  },
+  {
+    "title": "teramo-tapa-lasagna",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/teramo-tapa-lasagna.jpg"
+  },
+  {
+    "title": "thani-clasico",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/thani-clasico.jpg"
+  },
+  {
+    "title": "thani-espinaca",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/thani-espinaca.jpg"
+  },
+  {
+    "title": "thani-morron",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/thani-morron.jpg"
+  },
+  {
+    "title": "viavita-chalitas-chimi",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-chalitas-chimi.jpg"
+  },
+  {
+    "title": "viavita-chalitas-clasicas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-chalitas-clasicas.jpg"
+  },
+  {
+    "title": "viavita-chalitas-jamon",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-chalitas-jamon.jpg"
+  },
+  {
+    "title": "viavita-chalitas-parmesano",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-chalitas-parmesano.jpg"
+  },
+  {
+    "title": "viavita-chalitas-semillas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-chalitas-semillas.jpg"
+  },
+  {
+    "title": "viavita-crackers-garb-capresse",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-crackers-garb-capresse.jpg"
+  },
+  {
+    "title": "viavita-crackers-garb-tomillo-curry",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-crackers-garb-tomillo-curry.jpg"
+  },
+  {
+    "title": "viavita-crackers-quinoa-sinsal",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-crackers-quinoa-sinsal.jpg"
+  },
+  {
+    "title": "viavita-crackers-semillas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-crackers-semillas.jpg"
+  },
+  {
+    "title": "viavita-veggie-garb-hierbas",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-veggie-garb-hierbas.jpg"
+  },
+  {
+    "title": "viavita-veggie-tomate-remo",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/viavita-veggie-tomate-remo.jpg"
+  },
+  {
+    "title": "wakas-alubia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-alubia.jpg"
+  },
+  {
+    "title": "wakas-amaranto",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-amaranto.jpg"
+  },
+  {
+    "title": "wakas-arveja-chia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-arveja-chia.jpg"
+  },
+  {
+    "title": "wakas-chia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-chia.jpg"
+  },
+  {
+    "title": "wakas-garbanzo-chia",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-garbanzo-chia.jpg"
+  },
+  {
+    "title": "wakas-kale",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-kale.jpg"
+  },
+  {
+    "title": "wakas-maiz",
+    "status": "true",
+    "category": ["Adobos"],
+    "thumbnails": "./assets/products/wakas-maiz.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+<h2 class="text-center mt-4">Lista de productos</h2>
+
+<div class="container">
+  <div class="d-flex flex-wrap mx-auto row">
+    {{#if productsSearch.length}}
+      {{#each productsSearch}}
+        {{#each this}}
+          {{#if this.title}}
+            <div id="products" class="col-sm-8 col-md-6 col-lg-4 mx-auto">
+              <ul class="product list-unstyled m-3 mx-auto h-auto">
+                <div class="m-2 text-center text-capitalize">
+                  {{#if (check @root.role)}}
+                    <form action="/delProd" method="post" class="m-0 p-0">
+                      <input
+                        id="prodId"
+                        name="prodId"
+                        type="hidden"
+                        value="{{this._id}}"
+                      />
+                      <button
+                        type="submit"
+                        class="btn btn-danger float-end"
+                      >x</button>
+                    </form>
+                    <form action="/editProd" method="post" class="m-0 p-0">
+                      <input
+                        id="prodId"
+                        name="prodId"
+                        type="hidden"
+                        value="{{this._id}}"
+                      />
+                      <button
+                        type="submit"
+                        class="btn btn-success float-start"
+                      >?</button>
+                    </form>
+                  {{/if}}
+                  <li>{{this.title}}</li>
+                  <img class="img-thumbnail" src="{{this.thumbnails}}" />
+                </div>
+              </ul>
+            </div>
+          {{/if}}
+        {{/each}}
+      {{/each}}
+    {{else}}
+      <p>No hay productos</p>
+    {{/if}}
+  </div>
+</div>

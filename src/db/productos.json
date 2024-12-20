@@ -1,0 +1,392 @@
+[
+    {
+        "id": "1",
+        "title": "delicel-galle-chips",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/delicel-galle-chips.jpg"
+    },
+    {
+        "id": "2",
+        "title": "delicel-galle-choco",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/delicel-galle-choco.jpg"
+    },
+    {
+        "id": "3",
+        "title": "delicel-galle-coco",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/delicel-galle-coco.jpg"
+    },
+    {
+        "id": "4",
+        "title": "delicel-galle-naranj",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/delicel-galle-naranj.jpg"
+    },
+    {
+        "id": "5",
+        "title": "delicel-galle-pepas",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/delicel-galle-pepas.jpg"
+    },
+    {
+        "id": "6",
+        "title": "delicel-pm-bizco-choco",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-bizco-choco.jpg"
+    },
+    {
+        "id": "7",
+        "title": "delicel-pm-bizco-vaini",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-bizco-vaini.jpg"
+    },
+    {
+        "id": "8",
+        "title": "delicel-pm-noquis",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-noquis.jpg"
+    },
+    {
+        "id": "9",
+        "title": "delicel-pm-pan",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-pan.jpg"
+    },
+    {
+        "id": "10",
+        "title": "delicel-pm-pizza",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-pizza.jpg"
+    },
+    {
+        "id": "11",
+        "title": "delicel-pm-univ",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/delicel-pm-univ.jpg"
+    },
+    {
+        "id": "12",
+        "title": "delicel-rebozador",
+        "category": "Panificados",
+        "thumbnails": "./assets/products/delicel-rebozador.jpg"
+    },
+    {
+        "id": "13",
+        "title": "deluxe-ba¤ada-fruti",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/deluxe-banada-fruti.jpg"
+    },
+    {
+        "id": "15",
+        "title": "dicomere-adobo-orega-20g",
+        "category": "Adobos",
+        "thumbnails": "./assets/products/dicomere-adobo-orega-20g.jpg"
+    },
+    {
+        "id": "16",
+        "title": "dicomere-adobo-pimendulce-50g",
+        "category": "Adobos",
+        "thumbnails": "./assets/products/dicomere-adobo-pimendulce-50g.jpg"
+    },
+    {
+        "id": "17",
+        "title": "dicomere-adobo-pizza-50g",
+        "category": "Adobos",
+        "thumbnails": "./assets/products/dicomere-adobo-pizza-50g.jpg"
+    },
+    {
+        "id": "21",
+        "title": "dicomere-garb-text",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-garb-text.jpg"
+    },
+    {
+        "id": "22",
+        "title": "dicomere-hari-algarr",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-algarr.jpg"
+    },
+    {
+        "id": "23",
+        "title": "dicomere-hari-almen",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-almen.jpg"
+    },
+    {
+        "id": "24",
+        "title": "dicomere-hari-arroz1kg",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-arroz1kg.jpg"
+    },
+    {
+        "id": "25",
+        "title": "dicomere-hari-arv",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-arv.jpg"
+    },
+    {
+        "id": "26",
+        "title": "dicomere-hari-coco",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-coco.jpg"
+    },
+    {
+        "id": "27",
+        "title": "dicomere-hari-fecumaiz",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-fecumaiz.jpg"
+    },
+    {
+        "id": "28",
+        "title": "dicomere-hari-fecumandi",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-fecumandi.jpg"
+    },
+    {
+        "id": "29",
+        "title": "dicomere-hari-fecupapa",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-fecupapa.jpg"
+    },
+    {
+        "id": "30",
+        "title": "dicomere-hari-garb",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-garb.jpg"
+    },
+    {
+        "id": "31",
+        "title": "dicomere-hari-lent",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-lent.jpg"
+    },
+    {
+        "id": "32",
+        "title": "dicomere-hari-quinoa",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-quinoa.jpg"
+    },
+    {
+        "id": "33",
+        "title": "dicomere-hari-serraceno",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-serraceno.jpg"
+    },
+    {
+        "id": "34",
+        "title": "dicomere-hari-sorgobl",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-sorgobl.jpg"
+    },
+    {
+        "id": "35",
+        "title": "dicomere-hari-trigoserra",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hari-trigoserra.jpg"
+    },
+    {
+        "id": "36",
+        "title": "dicomere-hornear-50g",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-hornear-50g.jpg"
+    },
+    {
+        "id": "37",
+        "title": "dicomere-mix-frutos",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-mix-frutos.jpg"
+    },
+    {
+        "id": "38",
+        "title": "dicomere-pm-pan-ph",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-pm-pan-ph.jpg"
+    },
+    {
+        "id": "39",
+        "title": "dicomere-pm-pizza-ph",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-pm-pizza-ph.jpg"
+    },
+    {
+        "id": "40",
+        "title": "dicomere-pm-univ-ph",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/dicomere-pm-univ-ph.jpg"
+    },
+    {
+        "id": "41",
+        "title": "dicomere-rebo-arroz",
+        "category": "Panificados",
+        "thumbnails": "./assets/products/dicomere-rebo-arroz.jpg"
+    },
+    {
+        "id": "44",
+        "title": "lulemuu-alf-chocobl",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-alf-chocobl.jpg"
+    },
+    {
+        "id": "45",
+        "title": "lulemuu-alf-ddl",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-alf-ddl.jpg"
+    },
+    {
+        "id": "46",
+        "title": "lulemuu-alf-fruti",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-alf-fruti.jpg"
+    },
+    {
+        "id": "47",
+        "title": "lulemuu-alf-limon",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-alf-limon.jpg"
+    },
+    {
+        "id": "48",
+        "title": "lulemuu-alf-marroc",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-alf-marroc.jpg"
+    },
+    {
+        "id": "49",
+        "title": "lulemuu-limu",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/lulemuu-limu.jpg"
+    },
+    {
+        "id": "50",
+        "title": "natuzen-cook-choco",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/natuzen-cook-choco.jpg"
+    },
+    {
+        "id": "51",
+        "title": "natuzen-cook-limon",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/natuzen-cook-limon.jpg"
+    },
+    {
+        "id": "52",
+        "title": "natuzen-cook-miti",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/natuzen-cook-miti.jpg"
+    },
+    {
+        "id": "53",
+        "title": "natuzen-galle-pepas",
+        "category": "Galletitas",
+        "thumbnails": "./assets/products/natuzen-galle-pepas.jpg"
+    },
+    {
+        "id": "54",
+        "title": "natuzen-pm-pana-1kg",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/natuzen-pm-pana-1kg.jpg"
+    },
+    {
+        "id": "55",
+        "title": "natuzen-pm-pana-450g",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/natuzen-pm-pana-450g.jpg"
+    },
+    {
+        "id": "56",
+        "title": "natuzen-pm-pizza",
+        "category": "Harinas",
+        "thumbnails": "./assets/products/natuzen-pm-pizza.jpg"
+    },
+    {
+        "id": "58",
+        "title": "soyarroz-trad",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/soyarroz-trad.jpg"
+    },
+    {
+        "id": "59",
+        "title": "thani-clasico",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/thani-clasico.jpg"
+    },
+    {
+        "id": "60",
+        "title": "thani-espinaca",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/thani-espinaca.jpg"
+    },
+    {
+        "id": "61",
+        "title": "thani-morron",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/thani-morron.jpg"
+    },
+    {
+        "id": "62",
+        "title": "wakas-alubia",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-alubia.jpg"
+    },
+    {
+        "id": "63",
+        "title": "wakas-amaranto",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-amaranto.jpg"
+    },
+    {
+        "id": "64",
+        "title": "wakas-arveja-chia",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-arveja-chia.jpg"
+    },
+    {
+        "id": "65",
+        "title": "wakas-chia",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-chia.jpg"
+    },
+    {
+        "id": "66",
+        "title": "wakas-garbanzo-chia",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-garbanzo-chia.jpg"
+    },
+    {
+        "id": "67",
+        "title": "wakas-kale",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-kale.jpg"
+    },
+    {
+        "id": "68",
+        "title": "wakas-maiz",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/wakas-maiz.jpg"
+    },
+    {
+        "id": "69",
+        "title": "bluepatna-fetuccinis-huevo",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/bluepatna-fetuccinis-huevo.jpg"
+    },
+    {
+        "id": "70",
+        "title": "bluepatna-mostacholes",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/bluepatna-mostacholes.jpg"
+    },
+    {
+        "id": "71",
+        "title": "bluepatna-spaguettis",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/bluepatna-spaguettis.jpg"
+    },
+    {
+        "id": "72",
+        "title": "bluepatna-tirabuzon",
+        "category": "Fideos",
+        "thumbnails": "./assets/products/bluepatna-tirabuzon.jpg"
+    }
+]

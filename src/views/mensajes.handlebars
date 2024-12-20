@@ -1,0 +1,58 @@
+<div class="mensajes mt-2">
+  <a href="/messages?view=all" class="float-end btn btn-danger me-4">Ver Ocultos</a>
+  <a href="/messages" class="float-start btn btn-success ms-4">Ver activos</a>
+  <h1 class="text-center">Mensajes</h1>
+  <div class="h-100 h-auto d-inline-block my-3">
+    <div class="row justify-content-center m-3">
+      {{#if messages.length}}
+        {{#each messages}}
+          {{#each this}}
+            {{#if this.message}}
+              {{!-- {{#if (check this.status)}} --}}
+              <div
+                class="card m-1 bg-transparent border border-danger rounded-4 overflow-hidden"
+                style="width: 20rem"
+              >
+                <ul class="list-group m-2" style="list-style-type: none">
+                  {{! 
+                  <span class="btn btn-danger">x</span>
+                   }}
+                  <form
+                    action="/editmsg"
+                    method="post"
+                    class="m-0 p-0 position-absolute top-0 end-0"
+                  >
+                    <input
+                      id="msgId"
+                      name="msgId"
+                      type="hidden"
+                      value="{{this._id}}"
+                    />
+                    <button
+                      type="submit"
+                      class="btn btn-danger float-end"
+                    >?</button>
+                  </form>
+                  <li>{{this.createdAt}}</li>
+                  <li class="card-text"><strong>Nombre:
+                    </strong>{{this.name}}</li>
+                  <li class="card-text"><strong>Email:
+                    </strong>{{this.contact}}</li>
+                  <li class="card-text"><strong>Mensaje:
+                    </strong>{{this.message}}</li>
+                  {{!-- 
+                  <a
+                    class="position-absolute top-0 end-0 btn btn-danger"
+                    href="/deleteMessage?id={{this._id}}"
+                  >x</a> --}}
+
+                </ul>
+              </div>
+              {{!-- {{/if}} --}}
+            {{/if}}
+          {{/each}}
+        {{/each}}
+      {{/if}}
+    </div>
+  </div>
+</div>
